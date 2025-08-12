@@ -1,0 +1,9 @@
+android_app {
+    name: "MediaBrowserServiceSample",
+    srcs: ["src/**/*.java"],
+    resource_dirs: ["res"],
+    manifest: "AndroidManifest.xml",
+    sdk_version: "current",
+    min_sdk_version: "21",
+    target_sdk_version: "34",
+}
