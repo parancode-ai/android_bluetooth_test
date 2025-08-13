@@ -1,0 +1,9 @@
+android_app {
+    name: "MediaBrowserServiceApp",
+    manifest: "Application/src/main/AndroidManifest.xml",
+    srcs: ["Application/src/main/java/**/*.java"],
+    resource_dirs: ["Application/src/main/res"],
+    asset_dirs: ["Application/src/main/assets"],
+    sdk_version: "34",
+    min_sdk_version: "34",
+}
