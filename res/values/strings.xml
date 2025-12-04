@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth Player</string>
+    <string name="subtitle_hint">Connect an A2DP device and press play</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_next">Next</string>
+    <string name="action_prev">Previous</string>
+    <string name="action_fast_forward">Fast Forward</string>
+    <string name="action_rewind">Rewind</string>
+    <string name="album_art_description">Album artwork</string>
+    <string name="notification_channel_name">Bluetooth Playback</string>
+    <string name="notification_channel_description">Media controls for Bluetooth playback</string>
+</resources>
