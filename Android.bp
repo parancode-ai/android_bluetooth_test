@@ -1,0 +1,11 @@
+android_app {
+    name: "BluetoothMediaPlayer",
+    manifest: "AndroidManifest.xml",
+    srcs: ["src/**/*.java"],
+    resource_dirs: ["res"],
+    certificate: "platform",
+    sdk_version: "33",
+    min_sdk_version: "33",
+    target_sdk_version: "33",
+    // Uses platform audio and media session APIs only, so no additional static libs are required.
+}
