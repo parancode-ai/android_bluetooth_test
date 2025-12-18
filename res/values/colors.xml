@@ -1,0 +1,5 @@
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="control_background">#FF101010</color>
+    <color name="control_text">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,13 @@
+android_app {
+    name: "BluetoothMusicPlayer",
+    package_name: "com.example.android",
+    srcs: ["src/**/*.java"],
+    resource_dirs: ["res"],
+    manifest: "AndroidManifest.xml",
+    platform_apis: true,
+    certificate: "platform",
+    optimize: { enabled: false },
+    dex_preopt: { enabled: false },
+    // Target Java 8 for broad compatibility
+    java_version: "1.8",
+}
