@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bluetooth Music Player</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="fast_forward">Fast Forward</string>
+    <string name="rewind">Rewind</string>
+    <string name="media_title">Sample Track</string>
+    <string name="media_artist">Example Artist</string>
+    <string name="media_album">Example Album</string>
+    <string name="notification_channel_name">Playback</string>
+    <string name="notification_channel_description">Playback controls and metadata</string>
+    <string name="metadata_unknown">--</string>
+</resources>
