@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothMusicPlayer</string>
+    <string name="notification_channel_playback">Playback</string>
+    <string name="music_widget_label">BluetoothMusicPlayer</string>
+</resources>
